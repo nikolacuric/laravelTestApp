@@ -7,5 +7,5 @@
  5.Run commands "php artisan migrate --seed" and "php artisan serv";
  6.And that's it. URI for access login page is '/'
  7.Credintials for access the application as administrator are:
-   # email      => test@gmail.com
-   # password   => test
+    email      => test@gmail.com
+    password   => test
