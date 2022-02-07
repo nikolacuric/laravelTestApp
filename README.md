@@ -1,6 +1,6 @@
 # Test guide
 
- 1.Download file radnja_nikola_curic.zip;    
+ 1.Download file shop_nikola_curic.zip;    
  2.Unpack it and open with VS Code (or some other editor with terminal);    
  3.Make database and fill ".env" file with information about your database;    
  4.Navigate your terminal to project;     
